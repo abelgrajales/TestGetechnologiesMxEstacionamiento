@@ -1,5 +1,6 @@
 ## Prueba backend
 A continuación adjunto capturas del funcionamiento de los casos de uso utilizando postman
+El proyecto se creó con Spring Boot
 
 ![image](https://github.com/abelgrajales/TestGetechnologiesMxEstacionamiento/assets/158242303/6c4d9a5b-7ad6-40a3-914e-a7c09a7530da)
 
